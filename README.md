@@ -8,7 +8,6 @@
 	* Check our cloud environment for `Compliance` violations
 	* Generate a `Cloud Security Assessment`
 * Scan our Terraform Configurations for security and best practices using Prisma Cloud's GitHub Integration
-* Scan the code in our GitHub repository for known vulnerable libraries using Prisma Cloud
 
 If you missed yesterday's lab, check out the `Ketchup` section below, otherwise you can proceed to Chapter 1!
 
